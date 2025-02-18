@@ -31,4 +31,5 @@ Figure 6 the scrutinize of the signals:
 
 Figure 7 the decoded symbol and the IF signal:   
 ![image](https://github.com/user-attachments/assets/ddc7e11c-a0b2-4693-8add-629e077a1b36)
-。
+
+A subdirectory called Data must be created and the 3 txt files must be moved into the Data subdirectory。
