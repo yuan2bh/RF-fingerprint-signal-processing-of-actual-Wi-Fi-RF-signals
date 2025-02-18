@@ -4,7 +4,7 @@ The D-Link Wi-Fi 802.11b network adapter is set to Ad-hoc mode, and the short pr
 
 RF signals are decoded into I and Q channels by low-pass filtering, downconversion, and soft Phase Locked Loop (PLL), with the I channel decoded to compare standard preambles. For details, see two published papers [1-3]:
 
-[1] Honglin Yuan, Aiqun Hu. Preamble-based detection of Wi-Fi transmitter RF fingerprints[J]. IET Electronics Letters, 2010, 46(16): 1165-1167.
+[1] Honglin Yuan, Aiqun Hu. Preamble-based detection of Wi-Fi transmitter RF fingerprints[J]. IET Electronics Letters, 2010, 46(16): 1165-1167.  
 [2] Honglin Yuan, Zhihua Bao, Aiqun Hu. Power Ramped-up Preamble RF Fingerprints of Wireless Transmitters[J]. Radioengineering, 2011, 20(3): 703-709.   
 [3] Honglin Yuan. RESEARCH ON PHYSICAL-LAYER AUTHENTICATION OF WIRELESS NETWORK BASED ON RF FINGERPRINTS, A Dissertation Submitted to Southeast University For the Academic Degree of Doctor of Engineering. Supervised by Professor HU Ai-qun.
 
