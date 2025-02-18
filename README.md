@@ -1,5 +1,4 @@
-# RF-fingerprint-signal-processing-of-actual-Wi-Fi-RF-signals
-These MATLAB programs are the underlying code for my doctoral dissertation and two published journal papers, and while they are somewhat ancient, they now seem valuable.
+# RF-fingerprint-signal-processing-of-actual-Wi-Fi-RF-signals  
 
 The D-Link Wi-Fi 802.11b network adapter is set to Ad-hoc mode, and the short preamble keeps appearing. The preamble RF signal is acquired with an RF oscilloscope at a sample volume of 20 Gigabits per second, and the saved signal data is processed with these MATLAB programs in a PC to obtain an RF fingerprint for wireless physical-layer security.
 
